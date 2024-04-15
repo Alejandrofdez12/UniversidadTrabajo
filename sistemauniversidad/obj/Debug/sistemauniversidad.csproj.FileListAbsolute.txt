@@ -1,0 +1,10 @@
+C:\PROGRAMAS\sistemauniversidad\bin\Debug\sistemauniversidad.exe.config
+C:\PROGRAMAS\sistemauniversidad\bin\Debug\sistemauniversidad.exe
+C:\PROGRAMAS\sistemauniversidad\bin\Debug\sistemauniversidad.pdb
+C:\PROGRAMAS\sistemauniversidad\obj\Debug\sistemauniversidad.csproj.AssemblyReference.cache
+C:\PROGRAMAS\sistemauniversidad\obj\Debug\sistemauniversidad.frmIngresodelestudiante.resources
+C:\PROGRAMAS\sistemauniversidad\obj\Debug\sistemauniversidad.Properties.Resources.resources
+C:\PROGRAMAS\sistemauniversidad\obj\Debug\sistemauniversidad.csproj.GenerateResource.cache
+C:\PROGRAMAS\sistemauniversidad\obj\Debug\sistemauniversidad.csproj.CoreCompileInputs.cache
+C:\PROGRAMAS\sistemauniversidad\obj\Debug\sistemauniversidad.exe
+C:\PROGRAMAS\sistemauniversidad\obj\Debug\sistemauniversidad.pdb
